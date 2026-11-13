@@ -1,0 +1,256 @@
+2026-11-13 14:40:04 [@4f4f129fe804]
+Externo #1: Executar DomainsAlert
+2026-11-13 14:40:04 [@4f4f129fe804]
+Externo #2: Executar pendingreason_autobump_autosolve
+2026-11-13 14:40:04 [@4f4f129fe804]
+Externo #3: Executar createinquestchange
+2026-11-13 14:40:04 [@4f4f129fe804]
+Externo #4: Executar queuedwebhook
+2026-11-13 14:40:04 [@4f4f129fe804]
+Externo #5: Executar purgedraftforms
+2026-11-13 14:40:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:42:04 [@4f4f129fe804]
+Externo #1: Executar purgesessionhistory
+2026-11-13 14:42:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 14:42:04 [@4f4f129fe804]
+Externo #3: Executar queuedwebhook
+2026-11-13 14:42:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:42:28 [@4f4f129fe804]
+Interno #1: Executar contract
+2026-11-13 14:42:28 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:42:55 [@4f4f129fe804]
+Interno #1: Executar infocom
+2026-11-13 14:42:55 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:44:04 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 14:44:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 14:44:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:46:04 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 14:46:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 14:46:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:48:04 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 14:48:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 14:48:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:48:54 [@4f4f129fe804]
+Interno #1: Executar mailgate
+2026-11-13 14:48:54 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:50:18 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 14:50:18 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 14:50:18 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:52:04 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 14:52:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 14:52:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:54:04 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 14:54:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 14:54:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:55:01 [@4f4f129fe804]
+Interno #1: Executar session
+2026-11-13 14:55:02 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:56:05 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 14:56:05 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 14:56:05 [@4f4f129fe804]
+Ação abortada
+2026-11-13 14:58:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 14:58:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 14:58:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:00:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:00:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:00:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:02:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:02:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:02:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:04:08 [@4f4f129fe804]
+Interno #1: Executar graph
+2026-11-13 15:04:08 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:04:17 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:04:17 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:04:17 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:06:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:06:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:06:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:08:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:08:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:08:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:10:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:10:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:10:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:12:03 [@4f4f129fe804]
+Externo #1: Executar pendingreason_autobump_autosolve
+2026-11-13 15:12:03 [@4f4f129fe804]
+Externo #2: Executar pendingreason_autobump_autosolve
+2026-11-13 15:12:03 [@4f4f129fe804]
+Externo #3: Executar queuedwebhook
+2026-11-13 15:12:03 [@4f4f129fe804]
+Externo #4: Executar queuedwebhook
+2026-11-13 15:12:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:14:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:14:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:14:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:16:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:16:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:16:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:18:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:18:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:18:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:20:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:20:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:20:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:22:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:22:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:22:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:23:06 [@4f4f129fe804]
+Interno #1: Executar reservation
+2026-11-13 15:23:06 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:24:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:24:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:24:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:26:04 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:26:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:26:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:28:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:28:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:28:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:30:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:30:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:30:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:32:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:32:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:32:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:34:18 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:34:18 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:34:18 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:36:04 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:36:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:36:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:38:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:38:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:38:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:40:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:40:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:40:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:42:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:42:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:42:03 [@4f4f129fe804]
+Externo #3: Executar pendingreason_autobump_autosolve
+2026-11-13 15:42:04 [@4f4f129fe804]
+Externo #4: Executar pendingreason_autobump_autosolve
+2026-11-13 15:42:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:44:03 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:44:03 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:44:03 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:46:04 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:46:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:46:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:48:04 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:48:04 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:48:04 [@4f4f129fe804]
+Ação abortada
+2026-11-13 15:50:21 [@4f4f129fe804]
+Externo #1: Executar queuedwebhook
+2026-11-13 15:50:21 [@4f4f129fe804]
+Externo #2: Executar queuedwebhook
+2026-11-13 15:50:21 [@4f4f129fe804]
+Ação abortada

@@ -1,0 +1,44 @@
+[2026-11-13 14:33:23] glpi.WARNING:   *** Warning: mysqli::__construct(): php_network_getaddresses: getaddrinfo for db failed: No address associated with hostname at install.php line 180
+  Backtrace :
+  ./install/install.php:180                          
+  ./install/install.php:548                          step3()
+  ...Glpi/Controller/LegacyFileLoadController.php:64 require()
+  ./vendor/symfony/http-kernel/HttpKernel.php:195    Glpi\Controller\LegacyFileLoadController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:77     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:205        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./src/Glpi/Kernel/Kernel.php:214                   Symfony\Component\HttpKernel\Kernel->handle()
+  ./public/index.php:78                              Glpi\Kernel\Kernel->handle()
+
+[2026-11-13 14:33:23] glpi.WARNING:   *** Warning: mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo for db failed: No address associated with hostname at install.php line 180
+  Backtrace :
+  ./install/install.php:180                          
+  ./install/install.php:548                          step3()
+  ...Glpi/Controller/LegacyFileLoadController.php:64 require()
+  ./vendor/symfony/http-kernel/HttpKernel.php:195    Glpi\Controller\LegacyFileLoadController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:77     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:205        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./src/Glpi/Kernel/Kernel.php:214                   Symfony\Component\HttpKernel\Kernel->handle()
+  ./public/index.php:78                              Glpi\Kernel\Kernel->handle()
+
+[2026-11-13 14:35:21] glpi.WARNING:   *** Warning: mysqli::__construct(): php_network_getaddresses: getaddrinfo for glpidb failed: No address associated with hostname at install.php line 180
+  Backtrace :
+  ./install/install.php:180                          
+  ./install/install.php:548                          step3()
+  ...Glpi/Controller/LegacyFileLoadController.php:64 require()
+  ./vendor/symfony/http-kernel/HttpKernel.php:195    Glpi\Controller\LegacyFileLoadController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:77     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:205        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./src/Glpi/Kernel/Kernel.php:214                   Symfony\Component\HttpKernel\Kernel->handle()
+  ./public/index.php:78                              Glpi\Kernel\Kernel->handle()
+
+[2026-11-13 14:35:21] glpi.WARNING:   *** Warning: mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo for glpidb failed: No address associated with hostname at install.php line 180
+  Backtrace :
+  ./install/install.php:180                          
+  ./install/install.php:548                          step3()
+  ...Glpi/Controller/LegacyFileLoadController.php:64 require()
+  ./vendor/symfony/http-kernel/HttpKernel.php:195    Glpi\Controller\LegacyFileLoadController->__invoke()
+  ./vendor/symfony/http-kernel/HttpKernel.php:77     Symfony\Component\HttpKernel\HttpKernel->handleRaw()
+  ./vendor/symfony/http-kernel/Kernel.php:205        Symfony\Component\HttpKernel\HttpKernel->handle()
+  ./src/Glpi/Kernel/Kernel.php:214                   Symfony\Component\HttpKernel\Kernel->handle()
+  ./public/index.php:78                              Glpi\Kernel\Kernel->handle()
+
